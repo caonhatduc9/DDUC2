@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// cach 1 su dung member function 
 class phanSo
 {
 private:
