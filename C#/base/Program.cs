@@ -1,5 +1,4 @@
-﻿
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Runtime.CompilerServices;
 /*
@@ -95,7 +94,7 @@ namespace C_
         {
             Dictionary<int, string> dic = new Dictionary<int, string>();
             dic.Add(1, "Cao Nhat Duc");
-            if(!dic.ContainsKey(2))
+            if (!dic.ContainsKey(2))
                 dic.Add(2, "Tran Thao Quyen");
             foreach (KeyValuePair<int, string> item in dic)
                 Console.WriteLine("Ma = " + item.Key + "; ten = " + item.Value);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IDE\\VSCode\\C#\\C#.csproj": {}
+    "D:\\IDE\\VSCode\\C#\\base\\base.csproj": {}
   },
   "projects": {
-    "D:\\IDE\\VSCode\\C#\\C#.csproj": {
+    "D:\\IDE\\VSCode\\C#\\base\\base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IDE\\VSCode\\C#\\C#.csproj",
-        "projectName": "C#",
-        "projectPath": "D:\\IDE\\VSCode\\C#\\C#.csproj",
+        "projectUniqueName": "D:\\IDE\\VSCode\\C#\\base\\base.csproj",
+        "projectName": "base",
+        "projectPath": "D:\\IDE\\VSCode\\C#\\base\\base.csproj",
         "packagesPath": "C:\\Users\\Duc\\.nuget\\packages\\",
-        "outputPath": "D:\\IDE\\VSCode\\C#\\obj\\",
+        "outputPath": "D:\\IDE\\VSCode\\C#\\base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Duc\\AppData\\Roaming\\NuGet\\NuGet.Config",
