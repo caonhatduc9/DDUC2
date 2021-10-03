@@ -156,6 +156,7 @@ namespace Oop
             sv2.Birthday = new DateTime(2005, 12, 23);
             sv2.outputInfor();
         }
+
         static void testTrianle()
         {
             Triangle t1 = new Triangle(4, 2, 5);
@@ -176,7 +177,7 @@ namespace Oop
             Console.OutputEncoding = Encoding.UTF8;
             // testTrianle();
             testKH();
-             
+
         }
     }
 }
